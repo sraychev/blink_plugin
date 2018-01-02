@@ -1,0 +1,13 @@
+FireTV
+
+js/init.js set URL
+
+
+
+
+Roku
+
+change url in:
+2x admins
+categoryfeed is source
+update Roku

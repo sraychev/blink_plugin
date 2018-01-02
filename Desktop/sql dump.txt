@@ -1,0 +1,20 @@
+mysqldump -ucuis1 -pcuis01 --default-character-set=utf8 keeptree MyDB data data_entries data_sections data_types page_entries pages page_types > pages_database_11062013.sql
+
+
+
+
+
+
+mysqldump -ucuis1 -pcuis01 centershealthcare > centers_backup_7_17.sql
+
+
+
+
+SELECT * INTO OUTFILE 'table.csv'
+    FIELDS TERMINATED BY ','
+    LINES TERMINATED BY '\n'
+FROM table
+
+
+
+LOAD DATA LOCAL INFILE '/home/sraychev/clean2.csv' INTO TABLE xcontacs FIELDS TERMINATED BY ','  ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 LINES;

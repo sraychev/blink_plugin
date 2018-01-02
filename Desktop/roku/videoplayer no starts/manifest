@@ -1,0 +1,14 @@
+
+
+
+
+mm_icon_focus_hd=pkg:/images/Roku_ChannelPoster.jpg
+mm_icon_focus_sd=pkg:/images/Roku_ChannelPoster.jpg
+
+splash_screen_fhd=pkg:/images/LoadingScreens-big.jpg
+splash_screen_hd=pkg:/images/LoadingScreens-medium.jpg
+splash_screen_sd=pkg:/images/LoadingScreens-small.jpg
+
+major_version=1
+minor_version=0
+build_version=00001

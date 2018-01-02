@@ -1,0 +1,11 @@
+
+
+alternative search
+add to admin_access
+
+create table alternative_search_terms ( term_id INT(10) UNSIGNED AUTO_INCREMENT PRIMARY KEY, term VARCHAR(255), suggestion text );
+
+ templates/custom/search/eContentAgent.php
+ templates/custom/search/suggestions.tpl
+
+ web/admin/alternative_search_terms.php
