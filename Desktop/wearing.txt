@@ -1,4 +1,0 @@
-catalog.php
-
-html_templates/*
-css/core.css

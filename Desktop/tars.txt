@@ -1,6 +1,0 @@
-
-
-
-tar -cvf mcsbartolone.tar mcsbartolone
-
-tar -xf myfile_20030617.tar
